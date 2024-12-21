@@ -1,2 +1,6 @@
 Dorotka z krainy oz
+<<<<<<< HEAD
 mtrgs
+=======
+Strach na wroble, lew i ten blaszany koles.
+>>>>>>> 2082787 (zmiany)
