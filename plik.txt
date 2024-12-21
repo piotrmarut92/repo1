@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Pierwsza linikka zmiana okolo 15
 Druga linia
+=======
+Pierwsza linikka
+Druga linia
+Trzecia linijka.
+>>>>>>> piotrula
