@@ -1,3 +1,4 @@
 poczatek czytanki
 a to juz druga linia
-dopisana w masterze
+
+to sobie dopisuje
