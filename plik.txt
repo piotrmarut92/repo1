@@ -7,3 +7,4 @@ Druga linia
 Trzecia linijka.
 >>>>>>> piotrula
 Dopisane na serwerze GitHub.
+Dopisane na serwerze GitHub_drugi
