@@ -8,3 +8,6 @@ Trzecia linijka.
 >>>>>>> piotrula
 Dopisane na serwerze GitHub.
 Dopisane na serwerze GitHub_drugi
+
+
+i jeszce jedna zmiana
