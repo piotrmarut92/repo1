@@ -1,3 +1,13 @@
+Pierwsza linikka zmiana okolo 15
+Druga linia -- teraz poprawnmie
+Dopisane na serwerze GitHub.
+Dopisane na serwerze GitHub_drugi
+
+
+
+
+
+dopisanie linijki lokalnie
 <<<<<<< HEAD
 Pierwsza linikka zmiana okolo 15
 Druga linia
